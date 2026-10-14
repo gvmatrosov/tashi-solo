@@ -13,7 +13,7 @@
         "source": "github",
         "repo": "gvmatrosov/tap2line"
       },
-      "description": "Tap an element in any running app — web, mobile, desktop — and get the source line that builds it.",
+      "description": "Stop paying Claude Code to search for code you can point at: tap any element in your running app — web, mobile, desktop — and its source line is on your clipboard.",
       "category": "development"
     },
     {
