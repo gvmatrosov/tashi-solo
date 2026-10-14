@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "tashi-solo",
+  "description": "Claude Code plugins by gvmatrosov — small tools made in daily work on a real product, from a phone as often as a laptop.",
+  "owner": { "name": "gvmatrosov", "url": "https://github.com/gvmatrosov" },
+  "plugins": [
+    {
+      "name": "tap2line",
+      "source": { "source": "github", "repo": "gvmatrosov/tap2line" },
+      "description": "Tap an element in your running web app, get the source line that builds it on your clipboard.",
+      "category": "development"
+    },
+    {
+      "name": "autobuffer",
+      "source": { "source": "github", "repo": "gvmatrosov/autobuffer" },
+      "description": "Everything Claude gives you to copy lands on your clipboard by itself — over SSH, through tmux, from a phone.",
+      "category": "productivity"
+    }
+  ]
+}
