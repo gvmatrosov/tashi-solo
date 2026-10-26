@@ -31,7 +31,7 @@
         "source": "github",
         "repo": "gvmatrosov/threadbook"
       },
-      "description": "Keep talking to your live Claude Code session from your phone: a private notebook page, one thread per point, answered by the same session with its full memory.",
+      "description": "Break long Claude Code answers into points you can discuss in any order — in the same session, from any device.",
       "category": "productivity"
     }
   ]
