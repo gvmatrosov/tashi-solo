@@ -24,6 +24,15 @@
       },
       "description": "Everything Claude gives you to copy lands on your clipboard by itself — over SSH, through tmux, from a phone.",
       "category": "productivity"
+    },
+    {
+      "name": "threadbook",
+      "source": {
+        "source": "github",
+        "repo": "gvmatrosov/threadbook"
+      },
+      "description": "Keep talking to your live Claude Code session from your phone: a private notebook page, one thread per point, answered by the same session with its full memory.",
+      "category": "productivity"
     }
   ]
 }
